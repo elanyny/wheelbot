@@ -1,0 +1,9 @@
+portfolio_cash: 10000
+tickers:
+  - SPY
+target_delta: 0.25
+put_dte: [30, 45]
+call_dte: [30, 45]
+close_at_profit: 0.50
+roll_at_dte: 21
+max_contracts_per_ticker: 1
