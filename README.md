@@ -42,7 +42,7 @@ A production-style Python bot that automates the **Wheel** options strategy (cas
 ## Quick Start
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/elanyny/wheelbot/
 cd wheelbot
 python -m venv .venv
 # Windows PowerShell:
